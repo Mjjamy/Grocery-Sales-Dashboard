@@ -42,7 +42,7 @@ Microsoft Excel (Data Cleaning, Data Analysis,Creating Reports)
 
 - Treated outliers in sales and rating columns.
 
-- Formatted column headers for clarity and uniformity.
+- Formatted column headers for clarity.
 
 ### Exploratory Data Analysis
 
@@ -71,5 +71,22 @@ Here are the **results (insights)** for the questions based on the dashboard:
 4. **Fat Content:** **Low fat items** account for the majority of sales (**$776.3K, 65%**).
   
 5. **Outlet Type:** **Supermarket Type 2** records the highest avg. sales (**$142**).
+
+### Recommendations
+
+- **Increase stock in high-performing categories** like Fruits and Vegetables to boost overall revenue.
+
+- **Focus marketing efforts on Tier 3 locations** where customer demand and sales are highest.
+
+- **Promote Low fat products** through combo offers as they drive the largest share of sales.
+
+### Limitations
+
+1. The dataset covers a limited time period, so results may not reflect long-term sales trends.
+
+2. Some missing or inconsistent data entries might slightly affect the accuracy of insights.
+
+
+
 
 
